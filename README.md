@@ -39,4 +39,4 @@ Overall, this project demonstrates my ability to design and structure a complete
 
 
 *#OUTPUT*
-<!-- Uploading "Screenshot 2026-01-12 003456.png"... -->
+<img width="1919" height="808" alt="Image" src="https://github.com/user-attachments/assets/eab2a857-cfde-4f9a-95d0-71d8f70a17b2" />
